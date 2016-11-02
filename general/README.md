@@ -11,9 +11,15 @@
 
 ### PLP
 
-## GMM
+## Acoustic Model
 
-## HMM
+### WFST (Weighted Finite State Transducers)
+
+- [Weighted Finite State Transducers in Automatic Speech Recognition](WFST_in_Speech_Recognition.pdf)   
+  Lecture about WFST in Speech Recognition
+  
+- [OpenFST Library](http://www.openfst.org/twiki/bin/view/FST/WebHome)   
+  Library for FSTs (used for example in kaldi)
 
 ## Language Model
 
