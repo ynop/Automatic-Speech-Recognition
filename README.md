@@ -17,6 +17,6 @@ Literature, theory, notes on automatic speech recognition. Feel free to contribu
   40 speakers, ~170 utterances each
 
 ### German
-* [TU Darmstadt distant speech data corpus](https://www.lt.informatik.tu-darmstadt.de/de/data/open-acoustic-models/)  
+* [TU Darmstadt distant speech data corpus](https://www.lt.informatik.tu-darmstadt.de/de/data/open-source-acoustic-models-for-german-distant-speech-recognition/)  
   ~36h
 
