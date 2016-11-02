@@ -1,5 +1,5 @@
 # Automatic-Speech-Recognition
-Literature, theory, notes on automatic speech recognition
+Literature, theory, notes on automatic speech recognition. Feel free to contribute/correct/improve!
 
 * [General Speech Recognition](general)
 
