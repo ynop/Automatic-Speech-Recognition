@@ -3,6 +3,11 @@ Literature, theory, notes on automatic speech recognition. Feel free to contribu
 
 * [General Speech Recognition](general)
 
+## State of the art
+
+* [WER WE ARE](https://github.com/syhw/wer_are_we)  
+  Attempt at tracking states of the arts and recent results (bibliography) on speech recognition.
+
 ## Toolkits / Libraries
 
 * [Kaldi](kaldi)
