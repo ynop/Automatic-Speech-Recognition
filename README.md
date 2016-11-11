@@ -16,7 +16,7 @@ Literature, theory, notes on automatic speech recognition. Feel free to contribu
 
 ### Language Model
 * [Building a large scale language model for domain-specific transcription with SRILM](http://cmusphinx.sourceforge.net/wiki/tutoriallmadvanced)
-* [CMU-Statistical Language Modeling & SRILM Toolkits](https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=24&ved=0ahUKEwjrs774lZ_QAhUBrSwKHeVJA1g4FBAWCDIwAw&url=http%3A%2F%2Fhermes.fbk.eu%2Fpeople%2Fbertoldi%2Fteaching%2Flab-2009%2FgoTrain.txt&usg=AFQjCNEEjdxMLQhzhTDcVXRpuMgoKsW_mw&sig2=2fPLPQy_7Z6xlAZH9jvQwQ&bvm=bv.138169073,d.bGg)
+* [CMU-Statistical Language Modeling & SRILM Toolkits](https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0ahUKEwi269PjlaHQAhUFNxQKHXAzB6oQFgg7MAM&url=http%3A%2F%2Fmy.fit.edu%2F~vkepuska%2Fece5527%2FProjects%2FFall2011%2FAshwin%2520Acharya%2Fsearch%2520and%2520decode%2520final%2520project.pptx&usg=AFQjCNHNQU9McWdb5vbd-s69KTpNhAA66Q&sig2=mf-MiyxBjOlc6XseKNDzlA)
 
 ## Datasets
 
