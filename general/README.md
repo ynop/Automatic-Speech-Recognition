@@ -14,9 +14,18 @@
 
 ### PLP
 
-## Acoustic Model
+## HMM
 
-### WFST (Weighted Finite State Transducers)
+### Adaptation
+
+**Speaker adaptation techniques**
+- MLLR (Maximum likelihood linear regression)
+- fMLLR (Feature space Maximum Likelihood Linear Regression) also constrained MLLR
+
+
+
+
+## WFST (Weighted Finite State Transducers)
 
 - [Weighted Finite State Transducers in Automatic Speech Recognition](WFST_in_Speech_Recognition.pdf)   
   Lecture about WFST in Speech Recognition
