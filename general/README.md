@@ -14,11 +14,13 @@
 
 ### PLP
 
-## HMM
+## HMM (Hidden Markov Model)
 
 ### Parameter Estimation
 
 - MMI (Maximal Mutual Information)
+- MCE (Minimum Classification Error)
+- MBR (Minimum Bayes Risk)
 
 ### Adaptation
 
