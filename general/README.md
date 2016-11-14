@@ -16,13 +16,23 @@
 
 ## HMM
 
+### Parameter Estimation
+
+- MMI (Maximal Mutual Information)
+
 ### Adaptation
+
+**Feature based adaptation**
+- CMVN (Cepstral Mean and Variance Normalisation)
+- VTLN (Vocal Tract Length Normalisation)
 
 **Speaker adaptation techniques**
 - MLLR (Maximum likelihood linear regression)
 - fMLLR (Feature space Maximum Likelihood Linear Regression) also constrained MLLR
+- SAT (Speaker Adaptive Training)
 
-
+**Others**
+- MAP (Maximum a Posteriori)
 
 
 ## WFST (Weighted Finite State Transducers)
