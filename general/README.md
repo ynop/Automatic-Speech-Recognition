@@ -14,6 +14,12 @@
 
 ### PLP
 
+## Feature Transformation
+
+- LDA (Linear Discriminative Analysis)
+- HLDA (Heteroscedastic Linear Discriminant Analysis)
+- MLLT (Maximum Likelihood Linear Transform)
+
 ## HMM (Hidden Markov Model)
 
 ### Parameter Estimation
