@@ -16,9 +16,14 @@
 
 ## Feature Transformation
 
+- DCT (Discrete Cosine Transform)
 - LDA (Linear Discriminative Analysis)
 - HLDA (Heteroscedastic Linear Discriminant Analysis)
 - MLLT (Maximum Likelihood Linear Transform)
+
+## GMM (Gaussian Misture Model)
+
+### UBM (Universal Background Model)
 
 ## HMM (Hidden Markov Model)
 
