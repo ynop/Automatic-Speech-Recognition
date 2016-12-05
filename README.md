@@ -11,6 +11,16 @@ Literature, theory, notes on automatic speech recognition. Feel free to contribu
 ## Toolkits / Libraries
 
 * [Kaldi](kaldi)
+* [CMU Sphinx](http://cmusphinx.sourceforge.net)
+
+## Web Services
+
+* [Google Cloud Speech API](https://cloud.google.com/speech/)
+* [Microsoft Bing Speech API](https://azure.microsoft.com/en-us/services/cognitive-services/speech/)
+* [IBM Watson Developer Cloud](https://www.ibm.com/watson/developercloud/speech-to-text.html)
+* [Speechmatics](https://speechmatics.com)
+* [Vocapia](http://www.vocapia.com/speech-to-text.html)
+* [Nuance](https://developer.nuance.com/public/index.php?task=home)
 
 ## Tutorials / HowTo's
 
