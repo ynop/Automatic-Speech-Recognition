@@ -7,6 +7,8 @@
   
 - [Speech Recognition Wiki](http://recognize-speech.com)   
   Wiki about the recognition of the human speech
+  
+- [Glossary](http://www.vocapia.com/glossary.html)   
 
 ## Feature Extraction
 
