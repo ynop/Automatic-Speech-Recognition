@@ -12,6 +12,7 @@ Literature, theory, notes on automatic speech recognition. Feel free to contribu
 
 * [Kaldi](kaldi)
 * [CMU Sphinx](http://cmusphinx.sourceforge.net)
+* [Julius](https://github.com/julius-speech/julius)
 
 ## Web Services
 
