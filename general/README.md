@@ -10,6 +10,12 @@
   
 - [Glossary](http://www.vocapia.com/glossary.html)   
 
+## Data Augmentation
+
+- VLTP (Vocal Tract Length Perturbation)
+- Speed Perturbation
+- Tempo Perturbation
+
 ## Feature Extraction
 
 ### MFCC
