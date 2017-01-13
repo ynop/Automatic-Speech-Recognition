@@ -18,9 +18,9 @@
 
 ## Feature Extraction
 
-### MFCC
+### MFCC (Mel Frequency Cepstral Coefficients)
 
-### PLP
+### PLP (Perceptual Linear Predictive)
 
 ## Feature Transformation
 
