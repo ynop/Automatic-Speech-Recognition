@@ -31,6 +31,18 @@ Literature, theory, notes on automatic speech recognition. Feel free to contribu
 
 ## Datasets
 
+### English
+
+* [AMI Corpus](http://groups.inf.ed.ac.uk/ami/corpus/)  
+"The AMI Meeting Corpus is a multi-modal data set consisting of 100 hours of meeting recordings."
+
+* [LibriSpeech](http://www.openslr.org/12/)    
+"LibriSpeech is a corpus of approximately 1000 hours of 16kHz read English speech"
+
+* [TED-LIUM](http://www.openslr.org/19/)  
+"The TED-LIUM corpus was made from audio talks and their transcriptions available on the TED website."
+
+
 ### Different Languages
 * [Voxforge](http://www.voxforge.org)  
 
