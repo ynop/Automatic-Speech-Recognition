@@ -39,7 +39,7 @@ Literature, theory, notes on automatic speech recognition. Feel free to contribu
 * [LibriSpeech](http://www.openslr.org/12/)    
 "LibriSpeech is a corpus of approximately 1000 hours of 16kHz read English speech"
 
-* [TED-LIUM](http://www.openslr.org/19/)  
+* [TED-LIUM](http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus)  
 "The TED-LIUM corpus was made from audio talks and their transcriptions available on the TED website."
 
 
