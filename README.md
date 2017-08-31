@@ -42,6 +42,7 @@ Literature, theory, notes on automatic speech recognition. Feel free to contribu
 * [TED-LIUM](http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus)  
 "The TED-LIUM corpus was made from audio talks and their transcriptions available on the TED website."
 
+* [Buckeye](http://buckeyecorpus.osu.edu/)
 
 ### Different Languages
 * [Voxforge](http://www.voxforge.org)  
