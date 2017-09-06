@@ -54,4 +54,8 @@ Literature, theory, notes on automatic speech recognition. Feel free to contribu
 ### German
 * [TU Darmstadt distant speech data corpus](https://www.lt.informatik.tu-darmstadt.de/de/data/open-source-acoustic-models-for-german-distant-speech-recognition/)  
   ~36h
+  
+### Misc Audio
+
+* [AudioSet](https://research.google.com/audioset/index.html)
 
